@@ -6,7 +6,7 @@
 .header2 {
 	text-align: left;
 	padding-left: 38px;
-	font-variant: small-caps;
+font-variant: small-caps;
 }
 body {
 	background-image: url(av/Wallpaper.jpg);
@@ -100,7 +100,7 @@ width: auto;
 	text-align: left;
 	margin-left: 25px;
 	font-size: 29px;
-	font-variant: small-caps;
+
 
 
 }
