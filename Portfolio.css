@@ -5,8 +5,8 @@
 }
 .header2 {
 	text-align: left;
-	padding-left: 38px;
-font-variant: small-caps;
+	padding-left: 45px;
+
 }
 body {
 	background-image: url(av/Wallpaper.jpg);
@@ -27,7 +27,6 @@ font {
 	background-color: black;
 	color: white;
 	text-align: center;
-	font-family: Lora;
 }
 
 .hank {
@@ -35,9 +34,6 @@ font {
 	align-items: center;
 }
 
-#picv {
-	vertical-align: baseline;
-}
 
 nav {
 	width: 100px;
@@ -73,6 +69,8 @@ li a {
   text-align: center;
   padding: 16px;
   text-decoration: none;
+	font-variant: small-caps;
+	font-weight: bolder;
 }
 
 li a:hover {
@@ -102,9 +100,9 @@ li a:hover {
 
 
 .pic {
-	margin-bottom: 25px;
-	margin-right: 25px;
-	margin-left: 185px;
+	margin-right: 45px;
+	margin-left: 165px;
+	margin-top: 25px;
 	width: 265px;
 	float: right;
 	border: 5px solid white;
@@ -115,23 +113,23 @@ li a:hover {
 .aboutme {
 	display: block;
 	text-align: left;
-	margin-left: 25px;
+	margin-left: 45px;
 
-	font-size: 32px;
-
-.contact {
-	
-}
+	font-size: 31px;
 
 }
 
-.vid1 {
-	margin-top: 50px;
+.youtube {
+	width: 640px;
+	height: 360px;
+	border: 5px solid white;
+
 }
 
-.vid2 {
-	margin-top: 50px;
-	margin-bottom: 50px;
+.youtubetext {
+	text-align: left;
+	padding-left: 145px;
+	font-size: 25px;
 }
 
 #form {
