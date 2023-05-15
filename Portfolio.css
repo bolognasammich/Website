@@ -1,7 +1,7 @@
 .header {
 	text-align: left;
 	padding-left: 40px;
-	font-variant: small-caps;
+
 }
 .header2 {
 	text-align: left;
@@ -22,12 +22,21 @@ font {
 	margin: 1em auto;
 	padding: 35,35;
 	width: 960px;
-	height: 1000px;
+	height: 1115px;
 	border: 5px solid white;
 	background-color: black;
 	color: white;
 	text-align: center;
-	font-family: Georgia;
+	font-family: Lora;
+}
+
+.hank {
+	border-radius: 500px;
+	align-items: center;
+}
+
+#picv {
+	vertical-align: baseline;
 }
 
 nav {
@@ -77,17 +86,29 @@ li a:hover {
 	padding-top: 20px;
 	font-weight: bold;
 	font-variant: small-caps;
-	font-size: 30px;
+	font-size: 38px;
+}
+
+.quotecitation {
+	text-align: center;
+	padding-top: 20px;
+	margin: auto;
+	width: 100%;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 28px;
+
 }
 
 
 .pic {
-	margin-top: 25px;
-	margin-right: 20px;
-	margin-left: 20px;
-	width: 500px;
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 185px;
+	width: 265px;
 	float: right;
 	border: 5px solid white;
+
 
 }
 
@@ -95,9 +116,12 @@ li a:hover {
 	display: block;
 	text-align: left;
 	margin-left: 25px;
-	font-size: 29px;
 
+	font-size: 32px;
 
+.contact {
+	
+}
 
 }
 
