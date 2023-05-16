@@ -132,6 +132,16 @@ li a:hover {
 	font-size: 25px;
 }
 
-#form {
-	margin-top: 12px;
+.table {
+	color: white;
+	font-family: Lora;
+	margin-top: 75px;
+	text-align: center;
+	width: 100%;
+	align-items: center;
+
+}
+
+.icons {
+	size: 10 px;
 }
